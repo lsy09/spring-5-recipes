@@ -10,7 +10,7 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'application'
 
-mainClassName = "com.springrecipes.*.Main"
+mainClassName = "com.springrecipes.*.*.Main"
 
 repositories {
     mavenCentral()
