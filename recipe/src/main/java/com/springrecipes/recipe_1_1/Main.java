@@ -1,4 +1,4 @@
-package com.springrecipes;
+package com.springrecipes.recipe_1_1;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;

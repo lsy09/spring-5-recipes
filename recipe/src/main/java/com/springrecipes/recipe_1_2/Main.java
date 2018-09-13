@@ -1,4 +1,4 @@
-package com.apress.springrecipes.hello;
+package com.springrecipes.recipe_1_2;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

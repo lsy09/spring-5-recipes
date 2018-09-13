@@ -1,4 +1,4 @@
-package com.apress.springrecipes.hello;
+package com.springrecipes.recipe_1_2;
 
 import java.util.List;
 
