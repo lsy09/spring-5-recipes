@@ -1,6 +1,4 @@
-package com.springrecipes.ch_09.recipe_9.vehicle;
-
-import sun.jvm.hotspot.jdi.ConcreteMethodImpl;
+package com.springrecipes.ch_09.recipe_9_0.vehicle;
 
 import javax.sql.DataSource;
 import java.sql.Connection;

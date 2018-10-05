@@ -1,4 +1,4 @@
-package com.springrecipes.ch_09.recipe_9.vehicle;
+package com.springrecipes.ch_09.recipe_9_1.vehicle;
 
 public class Vehicle {
     private String vehicleNo;
@@ -16,28 +16,12 @@ public class Vehicle {
         this.seat = seat;
     }
 
-    public String getVehicleNo() {
-        return vehicleNo;
-    }
-
-    public void setVehicleNo(String vehicleNo) {
-        this.vehicleNo = vehicleNo;
-    }
-
     public String getColor() {
         return color;
     }
 
     public void setColor(String color) {
         this.color = color;
-    }
-
-    public int getWheel() {
-        return wheel;
-    }
-
-    public void setWheel(int wheel) {
-        this.wheel = wheel;
     }
 
     public int getSeat() {
@@ -48,13 +32,29 @@ public class Vehicle {
         this.seat = seat;
     }
 
+    public String getVehicleNo() {
+        return vehicleNo;
+    }
+
+    public void setVehicleNo(String vehicleNo) {
+        this.vehicleNo = vehicleNo;
+    }
+
+    public int getWheel() {
+        return wheel;
+    }
+
+    public void setWheel(int wheel) {
+        this.wheel = wheel;
+    }
+
     @Override
     public String toString() {
-        return "Vehicle{" +
+        return "Vehicle [" +
                 "vehicleNo='" + vehicleNo + '\'' +
                 ", color='" + color + '\'' +
                 ", wheel=" + wheel +
                 ", seat=" + seat +
-                '}';
+                ']';
     }
 }

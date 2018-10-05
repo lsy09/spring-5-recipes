@@ -1,4 +1,4 @@
-package com.springrecipes.ch_09.recipe_9.vehicle;
+package com.springrecipes.ch_09.recipe_9_0.vehicle;
 
 import java.util.List;
 

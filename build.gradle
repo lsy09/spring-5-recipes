@@ -38,14 +38,11 @@ dependencies {
     compile "org.springframework:spring-beans:${springVersion}"
     compile "org.springframework:spring-jdbc:${springVersion}"
     compile "org.springframework:spring-webmvc:${springVersion}"
-    
     compile "org.slf4j:slf4j-simple:1.7.25"
-    
     compile "org.postgresql:postgresql:42.1.4"
-    
     compile "mysql:mysql-connector-java:5.0.8"
-    
     compile "javax:javaee-api:8.0"
+    compile "com.zaxxer:HikariCP:2.7.6"
 
 }
 

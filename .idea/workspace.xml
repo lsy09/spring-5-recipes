@@ -1,95 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeddc8a8-514f-4caf-adea-2d1a1339e097" name="Default Changelist" comment="ch_09(0929)">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/activemq.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/clean-docker.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/couchbase.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/docker-compose-rabbitmq.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/kafka.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ldap.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/mongo.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/neo4j.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/postgres.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/psql.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rabbitmq.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/redis.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_i/DatePrefixGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_i/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_i/NumberPrefixGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_i/PrefixGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_i/SequenceGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_i/config/SequenceConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_ii/DatePrefixAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_ii/DatePrefixGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_ii/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_ii/NumberPrefixAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_ii/NumberPrefixGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_ii/PrefixGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_ii/SequenceGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_4_ii/config/SequenceConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_i/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_i/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_i/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_i/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_i/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_i/config/ShopConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_ii/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_ii/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_ii/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_ii/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_ii/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_5_ii/config/ShopConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_i/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_i/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_i/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_i/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_i/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_i/config/ShopConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_ii/BannerLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_ii/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_ii/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_ii/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_ii/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_ii/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_6_ii/config/ShopConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_7/config/ShopConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_8_i/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_8_i/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_8_i/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_8_i/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_8_i/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_8_i/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_8_i/config/ShopConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/PlainJdbcVehicleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/VehicleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/config/VehicleConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/javax.servlet.ServletContainerInitializer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/beans_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/discounts.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/reservationQuery.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp" afterDir="false" />
+    <list default="true" id="379ece39-c2e4-4287-956b-23e993418ed6" name="Default" comment="ch_03-1">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_mail_javax_mail_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_2_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_javaee_api_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_postgresql_postgresql_42_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/VehicleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/JdbcVehicleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/config/VehicleConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/73f6ab16-06e6-41d0-9b32-66adf651ea0b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springrecipes/doc/recipe2_SpringCore.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/doc/recipe2_SpringCore.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/appContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/appContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/springrecipes/ch_09/recipe_9/vehicle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/springrecipes/ch_09/recipe_9/vehicle/PlainJdbcVehicleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/springrecipes/ch_09/recipe_9/vehicle/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/springrecipes/ch_09/recipe_9/vehicle/VehicleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/springrecipes/ch_09/recipe_9/vehicle/config/VehicleConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/PlainJdbcVehicleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/PlainJdbcVehicleDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/VehicleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/VehicleDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/config/VehicleConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/config/VehicleConfiguration.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,36 +78,62 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="spring-5-recipe" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="spring-5-recipe" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="spring-5-recipe" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="spring_5_recipe: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="spring-5-recipe" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="spring_5_recipe: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="VEHICLE: table" type="98d5ac3d:MysqlImplModel$Table" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-5-recipes" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-5-recipes" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-5-recipes" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-5-recipes" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-5-recipes" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-5-recipes" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1237353567">
@@ -188,116 +186,54 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JdbcVehicleDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/JdbcVehicleDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="564">
+              <caret line="97" column="45" selection-start-line="97" selection-start-column="45" selection-end-line="97" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1060#1061#0" expanded="true" />
+                <element signature="e#1104#1105#0" expanded="true" />
+                <element signature="e#5445#5446#0" expanded="true" />
+                <element signature="e#5491#5492#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/73f6ab16-06e6-41d0-9b32-66adf651ea0b/console.sql">
+      <file leaf-file-name="PreparedStatementSetter.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.5.RELEASE/ba6e6fc441041963f290c7d1a270863a6599fbb2/spring-jdbc-5.0.5.RELEASE-sources.jar!/org/springframework/jdbc/core/PreparedStatementSetter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="540">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/VehicleDao.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/PlainJdbcVehicleDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="570">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-                <element signature="e#1366#1367#0" expanded="true" />
-                <element signature="e#1412#1413#0" expanded="true" />
+                <marker date="1538730820065" expanded="true" signature="484:1021" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://73f6ab16-06e6-41d0-9b32-66adf651ea0b/schema/spring_5_recipe/table/vehicle">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/javax/sql/DataSource.java">
+      <file leaf-file-name="VehicleConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/config/VehicleConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/config/VehicleConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-              <folding>
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
-                <element signature="e#883#884#0" expanded="true" />
-                <element signature="e#920#921#0" expanded="true" />
-                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -315,7 +251,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>vehicle</find>
+      <find>InsertVehicleStatementCreator</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -565,9 +505,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4613232788000" />
+        <entry key="$PROJECT_DIR$" value="4613984413000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2138690605" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3431855111" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1781704101" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3963461412" />
       </map>
     </option>
@@ -668,6 +609,8 @@
                   <option value="/usr/local/Cellar/gradle/4.10/libexec/lib/plugins/gradle-workers-4.10.jar" />
                   <option value="/usr/local/Cellar/gradle/4.10/libexec/lib/plugins/gradle-language-groovy-4.10.jar" />
                   <option value="/usr/local/Cellar/gradle/4.10/libexec/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -677,31 +620,64 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../boot-spring-boot" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../boot-spring-boot-master" value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../spring-5-recipes-master/spring-recipes-4th/ch01/springintro" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-5-recipes-master/spring-recipes-4th/ch02/recipe_2_6_ii" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-5-recipes-master/spring-recipes-4th/ch03/recipe_3_1_i" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-5-recipes-master/spring-recipes-4th/ch03/recipe_3_1_ii" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-5-recipes-master/spring-recipes-4th/ch03/recipe_3_1_iii" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-5-recipes-master/spring-recipes-4th/ch09/recipe_9_10" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-boot" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-boot-tacademy" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../tacademy-spring-boot-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/ch02/recipe_2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/ch02/recipe_2_1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/ch02/recipe_2_1_i" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/spring-recipes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/spring-recipes-4th" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/spring-recipes/ch01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/spring-recipes/recipe_ch02" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/VehicleDao.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/config/VehicleConfiguration.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/73f6ab16-06e6-41d0-9b32-66adf651ea0b/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/PrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/config/SequenceConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/DatePrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/SequenceGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/NumberPrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/config/SequenceConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/DatePrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/PrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/DatePrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/NumberPrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/PrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/SequenceGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/config/SequenceConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/NumberPrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/DatePrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/config/SequenceConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/SequenceGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/SequenceGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/appContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/SequenceGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/PrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/config/PrefixConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/config/SequenceConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/DatePrefixGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/doc/recipe3_SpringMVC.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/PlainJdbcVehicleDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/config/VehicleConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/VehicleDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/JdbcVehicleDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/config/VehicleConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/config/VehicleConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/VehicleDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/Main.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/config/VehicleConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/JdbcVehicleDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/Main.java" />
       </list>
     </option>
   </component>
@@ -717,11 +693,14 @@
       <select />
     </treeState>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="809" />
-    <option name="y" value="23" />
-    <option name="width" value="471" />
-    <option name="height" value="741" />
+    <option name="x" value="1440" />
+    <option name="y" value="-315" />
+    <option name="width" value="2519" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -770,6 +749,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springrecipes" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springrecipes" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_09" type="462c0819:PsiDirectoryNode" />
               <item name="vehicle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -779,14 +768,94 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springrecipes" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_09" type="462c0819:PsiDirectoryNode" />
               <item name="vehicle" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springrecipes" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_09" type="462c0819:PsiDirectoryNode" />
+              <item name="vehicle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springrecipes" type="462c0819:PsiDirectoryNode" />
+              <item name="ch_09" type="462c0819:PsiDirectoryNode" />
+              <item name="vehicle" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springrecipes" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-5-recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-5-recipes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -795,14 +864,25 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538209535542" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.springrecipes.ch_09" />
       <recent name="com.springrecipes.ch_09.recipe_9.vehicle" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springrecipes.ch_09.recipe_9_1.vehicle.config" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -819,36 +899,115 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.springrecipes.ch_09.recipe_9.vehicle.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springrecipes.ch_09.recipe_9_0.vehicle.Main" />
       <module name="spring-5-recipes_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.springrecipes.ch_09.recipe_9.vehicle.*" />
+          <option name="PATTERN" value="com.springrecipes.ch_09.recipe_9_0.vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="postgres.sh" type="BashConfigurationType" factoryName="Bash">
-      <module name="spring-5-recipes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/postgres.sh" />
-      <option name="PARAMETERS" value="" />
-      <method v="2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springrecipes.ch_09.recipe_9_1.vehicle.Main" />
+      <module name="spring-5-recipes_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springrecipes.ch_09.recipe_9_1.vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="spring-5-recipes [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="spring-5-recipes [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <list>
-      <item itemvalue="Bash.postgres.sh" />
+      <item itemvalue="Gradle.spring-5-recipes [clean]" />
+      <item itemvalue="Gradle.spring-5-recipes [build]" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Gradle.spring-5-recipes [build]" />
+        <item itemvalue="Gradle.spring-5-recipes [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -857,98 +1016,91 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eeddc8a8-514f-4caf-adea-2d1a1339e097" name="Default Changelist" comment="" />
-      <created>1538200777777</created>
+      <changelist id="379ece39-c2e4-4287-956b-23e993418ed6" name="Default" comment="" />
+      <created>1536894604611</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538200777777</updated>
-      <workItem from="1538200779529" duration="8683000" />
+      <updated>1536894604611</updated>
+      <workItem from="1536894606068" duration="14019000" />
+      <workItem from="1538079351966" duration="2461000" />
+      <workItem from="1538360306048" duration="1738000" />
+      <workItem from="1538363576685" duration="10153000" />
+      <workItem from="1538441411694" duration="1195000" />
+      <workItem from="1538457273682" duration="4501000" />
+      <workItem from="1538471704104" duration="591000" />
+      <workItem from="1538630649121" duration="1266000" />
+      <workItem from="1538634339350" duration="459000" />
+      <workItem from="1538634866436" duration="784000" />
+      <workItem from="1538701010191" duration="1727000" />
+      <workItem from="1538717396504" duration="11737000" />
     </task>
+    <task id="LOCAL-00001" summary="ch_02-2">
+      <created>1536916216423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536916216423</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ch_02-2">
+      <created>1538090067288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538090067288</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8683000" />
+    <option name="totallyTimeSpent" value="42092000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="741" extended-state="6" />
+    <frame x="1440" y="-315" width="2519" height="1417" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14701131" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="19" sideWeight="0.5018167" side_tool="true" visible="true" weight="0.32690826" />
+      <window_info anchor="right" id="Maven Projects" order="13" show_stripe_button="false" weight="0.32957393" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.49939442" weight="0.19058642" />
+      <window_info anchor="right" id="Database" order="7" weight="0.2591845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3290735" />
-      <window_info anchor="bottom" id="Database Console" weight="0.5424" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.78913736" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3290735" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3290735" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290735" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39776358" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="JSF" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="CDI" />
-      <window_info anchor="right" id="Maven Projects" show_stripe_button="false" weight="0.32957393" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Database" visible="true" weight="0.25928918" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" weight="0.32957393" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="JSF" order="6" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498587" weight="0.39475712" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3290735" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49818328" visible="true" weight="0.32690826" />
+      <window_info anchor="bottom" id="Version Control" order="18" weight="0.3290735" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.78913736" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15865967" />
+      <window_info anchor="right" id="Bean Validation" order="12" weight="0.32957393" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Gradle" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32973805" />
+      <window_info anchor="bottom" id="SBT Execute" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="sbt" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="17" weight="0.5424" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Web" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.14701131" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="0" weight="0.3290735" />
-      <window_info anchor="bottom" id="Spring" order="1" />
-      <window_info anchor="bottom" id="Database Console" order="2" weight="0.5424" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3296" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="5" />
-      <window_info anchor="bottom" id="Java Enterprise" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290735" />
-      <window_info anchor="bottom" id="Message" order="9" />
-      <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.3290735" />
-      <window_info active="true" anchor="bottom" id="Debug" order="12" visible="true" weight="0.39776358" />
-      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="JSF" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Maven Projects" order="3" show_stripe_button="false" weight="0.32957393" />
-      <window_info anchor="right" id="Gradle" order="4" />
-      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.25928918" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="CDI" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32957393" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="10" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="11" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -989,142 +1141,426 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/PlainJdbcVehicleDao.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Main.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bin/docker-compose.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/DatePrefixGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="165">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/ldap.sh">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/config/SequenceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/NumberPrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/SequenceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iii/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/config/SequenceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/DatePrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/PrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/PrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/NumberPrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/DatePrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/NumberPrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/config/SequenceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_iv/SequenceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/SequenceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/SequenceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/appContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/DatePrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vi/PrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_v/config/SequenceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/DatePrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/PrefixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/SequenceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/config/PrefixConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/config/SequenceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_02/recipe_2_3_vii/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/doc/recipe2_SpringCore.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/doc/recipe3_SpringMVC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-5-recipes.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/postgres.sh">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/PlainJdbcVehicleDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/VehicleDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/Vehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/vehicle/Vehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/vehicle/VehicleDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/config/VehicleConfiguration.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.5.RELEASE/5a09407b3c27b88fcb9b07b1bc72cfab6034aa5d/spring-context-5.0.5.RELEASE-sources.jar!/org/springframework/context/annotation/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="85" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="85" />
+        <state relative-caret-position="5730">
+          <caret line="405" column="18" selection-start-line="405" selection-start-column="18" selection-end-line="405" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/VehicleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/PlainJdbcVehicleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="78" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/VehicleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        <state relative-caret-position="540">
+          <caret line="36" column="65" lean-forward="true" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
           <folding>
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/javax/sql/DataSource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/config/VehicleConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="23" selection-start-line="23" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/73f6ab16-06e6-41d0-9b32-66adf651ea0b/console.sql">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_0/vehicle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/config/VehicleConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="542">
+          <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/config/VehicleConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/Main.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.5.RELEASE/ba6e6fc441041963f290c7d1a270863a6599fbb2/spring-jdbc-5.0.5.RELEASE-sources.jar!/org/springframework/jdbc/core/PreparedStatementSetter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="540">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/JdbcVehicleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="97" column="45" selection-start-line="97" selection-start-column="45" selection-end-line="97" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#5445#5446#0" expanded="true" />
+            <element signature="e#5491#5492#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/PlainJdbcVehicleDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9_1/vehicle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#1366#1367#0" expanded="true" />
-            <element signature="e#1412#1413#0" expanded="true" />
+            <marker date="1538730820065" expanded="true" signature="484:1021" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://73f6ab16-06e6-41d0-9b32-66adf651ea0b/schema/spring_5_recipe/table/vehicle">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springrecipes/ch_09/recipe_9/vehicle/VehicleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|spring-5-recipes_main|spring-5-recipes</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.sun.mail:javax.mail:1.6.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
