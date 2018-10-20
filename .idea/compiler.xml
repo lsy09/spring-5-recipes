@@ -2,6 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="recipe_5_2_i_main" target="1.8" />
+      <module name="recipe_5_2_i_test" target="1.8" />
+      <module name="recipe_5_2_ii_main" target="1.8" />
+      <module name="recipe_5_2_ii_test" target="1.8" />
+      <module name="recipe_5_2_iii_main" target="1.8" />
+      <module name="recipe_5_2_iii_test" target="1.8" />
+      <module name="recipe_5_2_iv_main" target="1.8" />
+      <module name="recipe_5_2_iv_test" target="1.8" />
+      <module name="recipe_7_1_ii_main" target="1.8" />
+      <module name="recipe_7_1_ii_test" target="1.8" />
+      <module name="recipe_7_1_iii_main" target="1.8" />
+      <module name="recipe_7_1_iii_test" target="1.8" />
+      <module name="recipe_7_1_iv_main" target="1.8" />
+      <module name="recipe_7_1_iv_test" target="1.8" />
       <module name="spring-5-recipes_main" target="1.8" />
       <module name="spring-5-recipes_test" target="1.8" />
     </bytecodeTargetLevel>

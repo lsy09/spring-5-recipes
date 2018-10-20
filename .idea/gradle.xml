@@ -9,6 +9,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ch05" />
+            <option value="$PROJECT_DIR$/ch05/recipe_5_2_i" />
+            <option value="$PROJECT_DIR$/ch05/recipe_5_2_ii" />
+            <option value="$PROJECT_DIR$/ch05/recipe_5_2_iii" />
+            <option value="$PROJECT_DIR$/ch05/recipe_5_2_iv" />
+            <option value="$PROJECT_DIR$/ch07" />
+            <option value="$PROJECT_DIR$/ch07/recipe_7_1_i" />
+            <option value="$PROJECT_DIR$/ch07/recipe_7_1_ii" />
+            <option value="$PROJECT_DIR$/ch07/recipe_7_1_iii" />
+            <option value="$PROJECT_DIR$/ch07/recipe_7_1_iv" />
           </set>
         </option>
       </GradleProjectSettings>

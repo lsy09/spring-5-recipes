@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-5-recipes.iml" filepath="$PROJECT_DIR$/spring-5-recipes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-5-recipes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-5-recipes_main.iml" group="spring-5-recipes" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-5-recipes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-5-recipes_test.iml" group="spring-5-recipes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/ch05.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/ch05.iml" group="ch05" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/ch07.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/ch07.iml" group="ch07" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_i/recipe_5_2_i.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_i/recipe_5_2_i.iml" group="ch05/recipe_5_2_i" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_i/recipe_5_2_i_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_i/recipe_5_2_i_main.iml" group="ch05/recipe_5_2_i" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_i/recipe_5_2_i_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_i/recipe_5_2_i_test.iml" group="ch05/recipe_5_2_i" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_ii/recipe_5_2_ii.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_ii/recipe_5_2_ii.iml" group="ch05/recipe_5_2_ii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_ii/recipe_5_2_ii_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_ii/recipe_5_2_ii_main.iml" group="ch05/recipe_5_2_ii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_ii/recipe_5_2_ii_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_ii/recipe_5_2_ii_test.iml" group="ch05/recipe_5_2_ii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iii/recipe_5_2_iii.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iii/recipe_5_2_iii.iml" group="ch05/recipe_5_2_iii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iii/recipe_5_2_iii_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iii/recipe_5_2_iii_main.iml" group="ch05/recipe_5_2_iii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iii/recipe_5_2_iii_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iii/recipe_5_2_iii_test.iml" group="ch05/recipe_5_2_iii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iv/recipe_5_2_iv.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iv/recipe_5_2_iv.iml" group="ch05/recipe_5_2_iv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iv/recipe_5_2_iv_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iv/recipe_5_2_iv_main.iml" group="ch05/recipe_5_2_iv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iv/recipe_5_2_iv_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch05/recipe_5_2_iv/recipe_5_2_iv_test.iml" group="ch05/recipe_5_2_iv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_i/recipe_7_1_i.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_i/recipe_7_1_i.iml" group="ch07/recipe_7_1_i" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_ii/recipe_7_1_ii.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_ii/recipe_7_1_ii.iml" group="ch07/recipe_7_1_ii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_ii/recipe_7_1_ii_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_ii/recipe_7_1_ii_main.iml" group="ch07/recipe_7_1_ii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_ii/recipe_7_1_ii_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_ii/recipe_7_1_ii_test.iml" group="ch07/recipe_7_1_ii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iii/recipe_7_1_iii.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iii/recipe_7_1_iii.iml" group="ch07/recipe_7_1_iii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iii/recipe_7_1_iii_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iii/recipe_7_1_iii_main.iml" group="ch07/recipe_7_1_iii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iii/recipe_7_1_iii_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iii/recipe_7_1_iii_test.iml" group="ch07/recipe_7_1_iii" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iv/recipe_7_1_iv.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iv/recipe_7_1_iv.iml" group="ch07/recipe_7_1_iv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iv/recipe_7_1_iv_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iv/recipe_7_1_iv_main.iml" group="ch07/recipe_7_1_iv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iv/recipe_7_1_iv_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch07/recipe_7_1_iv/recipe_7_1_iv_test.iml" group="ch07/recipe_7_1_iv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-5-recipes.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-5-recipes.iml" />
     </modules>
   </component>
 </project>

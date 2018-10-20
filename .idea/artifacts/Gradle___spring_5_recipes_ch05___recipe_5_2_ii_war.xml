@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : spring-5-recipes.ch05 : recipe_5_2_ii.war">
+    <output-path>$PROJECT_DIR$/ch05/recipe_5_2_ii/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="recipe_5_2_ii.war">
+      <element id="artifact" artifact-name="Gradle : spring-5-recipes.ch05 : recipe_5_2_ii.war (exploded)" />
+    </root>
+  </artifact>
+</component>
