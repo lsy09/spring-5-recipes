@@ -20,6 +20,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.apress.springrecipes.board.Todo;
 import com.apress.springrecipes.board.TodoService;
 
+/**
+ * 7. 스프링 시큐리티
+ *
+ * > 아시지 시큐리티(Acegi Security) 프로젝트로 시작된 스프링 시큐리티는 스프링 포트폴리오 프로젝트에 병합 되면서 이름을 변경
+ *
+ * > '인증(Authentication)은 주체(principal)의 신원(identity)를 증명하는 과정입니다.'는 주장을 검증하는 과정
+ */
+
 @Controller
 @RequestMapping("/todos")
 public class TodoController {
