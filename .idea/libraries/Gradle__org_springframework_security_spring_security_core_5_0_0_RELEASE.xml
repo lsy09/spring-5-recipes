@@ -2,7 +2,6 @@
   <library name="Gradle: org.springframework.security:spring-security-core:5.0.0.RELEASE">
     <CLASSES>
       <root url="jar:///usr/local/Cellar/gradle/4.10/libexec/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.0.RELEASE/3e3a3a68fc458dcd723216302eda7d772558506/spring-security-core-5.0.0.RELEASE.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.0.RELEASE/3e3a3a68fc458dcd723216302eda7d772558506/spring-security-core-5.0.0.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":ch07:recipe_7_2_i" external.linked.project.path="$MODULE_DIR$/../../../../ch07/recipe_7_2_i" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="spring-5-recipes.ch07" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../ch07/recipe_7_2_i">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../ch07/recipe_7_2_i/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../ch07/recipe_7_2_i/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../ch07/recipe_7_2_i/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

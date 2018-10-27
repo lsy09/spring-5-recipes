@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.security:spring-security-webflux:5.0.0.M5">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/4.10/libexec/caches/modules-2/files-2.1/org.springframework.security/spring-security-webflux/5.0.0.M5/da187453273cb7bf62c7edbc0ce11bcf4fe1e969/spring-security-webflux-5.0.0.M5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/4.10/libexec/caches/modules-2/files-2.1/org.springframework.security/spring-security-webflux/5.0.0.M5/758be06fd1adab33f43eddfff97f8e5b46341fd/spring-security-webflux-5.0.0.M5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

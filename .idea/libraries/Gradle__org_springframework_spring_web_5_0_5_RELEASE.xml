@@ -2,7 +2,6 @@
   <library name="Gradle: org.springframework:spring-web:5.0.5.RELEASE">
     <CLASSES>
       <root url="jar:///usr/local/Cellar/gradle/4.10/libexec/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.5.RELEASE/d51dbb5cabe72ae02e400577bac48f7fc94088de/spring-web-5.0.5.RELEASE.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.5.RELEASE/d51dbb5cabe72ae02e400577bac48f7fc94088de/spring-web-5.0.5.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

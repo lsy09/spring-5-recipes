@@ -2,7 +2,6 @@
   <library name="Gradle: org.springframework:spring-expression:5.0.5.RELEASE">
     <CLASSES>
       <root url="jar:///usr/local/Cellar/gradle/4.10/libexec/caches/modules-2/files-2.1/org.springframework/spring-expression/5.0.5.RELEASE/fc6c7a95aeb7d00f4c65c338b08d97767eb0dd99/spring-expression-5.0.5.RELEASE.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.0.5.RELEASE/fc6c7a95aeb7d00f4c65c338b08d97767eb0dd99/spring-expression-5.0.5.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
