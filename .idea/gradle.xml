@@ -19,11 +19,8 @@
             <option value="$PROJECT_DIR$/ch07/recipe_7_1_ii" />
             <option value="$PROJECT_DIR$/ch07/recipe_7_1_iii" />
             <option value="$PROJECT_DIR$/ch07/recipe_7_1_iv" />
-            <option value="$PROJECT_DIR$/ch07/recipe_7_2_i" />
-            <option value="$PROJECT_DIR$/ch07/recipe_7_2_ii" />
-            <option value="$PROJECT_DIR$/ch07/recipe_7_2_iii" />
+            <option value="$PROJECT_DIR$/ch07/recipe_7_2" />
             <option value="$PROJECT_DIR$/ch07/recipe_7_3_i" />
-            <option value="$PROJECT_DIR$/ch07/recipe_7_3_ii" />
             <option value="$PROJECT_DIR$/ch07/recipe_7_3_iii" />
             <option value="$PROJECT_DIR$/ch07/recipe_7_3_iv" />
             <option value="$PROJECT_DIR$/ch07/recipe_7_3_v" />
@@ -36,23 +33,13 @@
             <option value="$PROJECT_DIR$/ch07/recipe_7_6_i" />
             <option value="$PROJECT_DIR$/ch07/recipe_7_7_i" />
             <option value="$PROJECT_DIR$/ch07/recipe_7_8_i" />
-            <option value="$PROJECT_DIR$/ch11" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_1_i" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_1_ii" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_2_i" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_2_ii" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_3" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_4" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_5" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_6_i" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_6_ii" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_6_iii" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_7" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_8_i" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_8_ii" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_8_iii" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_8_iv" />
-            <option value="$PROJECT_DIR$/ch11/recipe_11_9" />
+            <option value="$PROJECT_DIR$/ch12" />
+            <option value="$PROJECT_DIR$/ch12/recipe_12_1_i" />
+            <option value="$PROJECT_DIR$/ch12/recipe_12_1_ii" />
+            <option value="$PROJECT_DIR$/ch12/recipe_12_1_iii" />
+            <option value="$PROJECT_DIR$/ch12/recipe_12_1_iv" />
+            <option value="$PROJECT_DIR$/ch12/recipe_12_1_v" />
+            <option value="$PROJECT_DIR$/ch12/recipe_12_1_vi" />
           </set>
         </option>
       </GradleProjectSettings>

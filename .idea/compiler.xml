@@ -34,6 +34,34 @@
       <module name="recipe_11_8_iv_test" target="1.8" />
       <module name="recipe_11_9_main" target="1.8" />
       <module name="recipe_11_9_test" target="1.8" />
+      <module name="recipe_12_1_i_main" target="1.8" />
+      <module name="recipe_12_1_i_test" target="1.8" />
+      <module name="recipe_12_1_ii_main" target="1.8" />
+      <module name="recipe_12_1_ii_test" target="1.8" />
+      <module name="recipe_12_1_iii_main" target="1.8" />
+      <module name="recipe_12_1_iii_test" target="1.8" />
+      <module name="recipe_12_1_iv_main" target="1.8" />
+      <module name="recipe_12_1_iv_test" target="1.8" />
+      <module name="recipe_12_1_v_main" target="1.8" />
+      <module name="recipe_12_1_v_test" target="1.8" />
+      <module name="recipe_12_1_vi_main" target="1.8" />
+      <module name="recipe_12_1_vi_test" target="1.8" />
+      <module name="recipe_14_1_i_BackOffice_main" target="1.8" />
+      <module name="recipe_14_1_i_BackOffice_test" target="1.8" />
+      <module name="recipe_14_1_i_FrontDesk_main" target="1.8" />
+      <module name="recipe_14_1_i_FrontDesk_test" target="1.8" />
+      <module name="recipe_14_1_ii_BackOffice_main" target="1.8" />
+      <module name="recipe_14_1_ii_BackOffice_test" target="1.8" />
+      <module name="recipe_14_1_ii_FrontDesk_main" target="1.8" />
+      <module name="recipe_14_1_ii_FrontDesk_test" target="1.8" />
+      <module name="recipe_14_1_iii_BackOffice_main" target="1.8" />
+      <module name="recipe_14_1_iii_BackOffice_test" target="1.8" />
+      <module name="recipe_14_1_iii_FrontDesk_main" target="1.8" />
+      <module name="recipe_14_1_iii_FrontDesk_test" target="1.8" />
+      <module name="recipe_14_1_iv_BackOffice_main" target="1.8" />
+      <module name="recipe_14_1_iv_BackOffice_test" target="1.8" />
+      <module name="recipe_14_1_iv_FrontDesk_main" target="1.8" />
+      <module name="recipe_14_1_iv_FrontDesk_test" target="1.8" />
       <module name="recipe_5_2_i_main" target="1.8" />
       <module name="recipe_5_2_i_test" target="1.8" />
       <module name="recipe_5_2_ii_main" target="1.8" />
@@ -56,6 +84,8 @@
       <module name="recipe_7_2_ii_test" target="1.8" />
       <module name="recipe_7_2_iii_main" target="1.8" />
       <module name="recipe_7_2_iii_test" target="1.8" />
+      <module name="recipe_7_2_main" target="1.8" />
+      <module name="recipe_7_2_test" target="1.8" />
       <module name="recipe_7_3_i_main" target="1.8" />
       <module name="recipe_7_3_i_test" target="1.8" />
       <module name="recipe_7_3_ii_main" target="1.8" />
